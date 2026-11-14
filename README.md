@@ -59,8 +59,7 @@ Em todas as fases, a velocidade do obstáculo aumenta a cada item resolvido.
 
 ## Como executar
 
-Não há instalação nem dependências. Baixe o repositório e abra o arquivo `index.html` em um navegador moderno (Chrome, Edge, Firefox ou Safari).
-
+Baixe o arquivo "EcoSouls.zip" ele ira abrir em seu navegador (Brave, Chrome, Edge, FireFox...)
 Para que as fontes apareçam como no projeto, mantenha o arquivo `fontes.css` e os arquivos de fonte na mesma pasta. Sem eles, o jogo usa fontes de reserva do sistema.
 
 ## Estrutura do projeto
